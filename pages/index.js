@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1>Ali</h1>
+        <h1>Ali Next</h1>
       </main>
 
       <footer className={styles.footer}>
