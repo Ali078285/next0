@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1>Ali Nehıoxt</h1>
+        <h1>Ali Nehılshcıeoxt</h1>
       </main>
 
       <footer className={styles.footer}>
